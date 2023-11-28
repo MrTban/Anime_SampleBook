@@ -2,8 +2,35 @@
 
 ![Anime Website](https://i.ibb.co/MG1nbqt/YT-Thumbnails-2.png)
 
-### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
-### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
-### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
+## Prerequisites
 
+**Node version 18.x**
+
+### Clone repository
+
+```shell
+git clone https://github.com/MrTban/Anime_SampleBook.git
+```
+
+### Install packages
+
+```shell
+npm i
+```
+
+### Run Application
+
+```shell
+npm run dev
+```
+
+#
+
+## Commands
+
+Execute commands with `npm [command]`
+
+| command   | description                              |
+| :-------- | :--------------------------------------- |
+| `i`       | Install dependencies and packages        |
+| `run dev` | Starts a development instance of the app |
